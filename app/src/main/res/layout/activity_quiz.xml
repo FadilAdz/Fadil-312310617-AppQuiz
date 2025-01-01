@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".QuizActivity"
+    tools:ignore="ExtraText">
+
+    <ImageView
+        android:id="@+id/bgSoal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.391"
+        app:srcCompat="@drawable/soalbg" />
+
+    <ImageView
+        android:id="@+id/bgWhite"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/lingkaran" />
+
+    <ImageView
+        android:id="@+id/imageCplus"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        app:layout_constraintBottom_toBottomOf="@+id/bgWhite"
+        app:layout_constraintEnd_toEndOf="@+id/bgWhite"
+        app:layout_constraintStart_toStartOf="@+id/bgWhite"
+        app:layout_constraintTop_toTopOf="@+id/bgWhite"
+        app:srcCompat="@drawable/cplus" />
+
+    <TextView
+        android:id="@+id/textSoalCplus"
+        android:layout_width="300dp"
+        android:layout_height="137dp"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/bgSoal"
+        app:layout_constraintEnd_toEndOf="@+id/bgSoal"
+        app:layout_constraintStart_toStartOf="@+id/bgSoal"
+        app:layout_constraintTop_toTopOf="@+id/bgSoal"
+        app:layout_constraintVertical_bias="0.482" />
+
+    <Button
+        android:id="@+id/btnSoal1A"
+        android:layout_width="330dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/rounded_quiz"
+        android:text="cout"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bgSoal" />
+
+    <Button
+        android:id="@+id/btnSoal1B"
+        android:layout_width="330dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/rounded_quiz"
+        android:text="console.log"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSoal1A" />
+
+    <Button
+        android:id="@+id/btnSoal1C"
+        android:layout_width="330dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/rounded_quiz"
+        android:text="print.out"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSoal1B" />
+
+    <Button
+        android:id="@+id/next1Cplus"
+        android:layout_width="180dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/rounded_next_quiz"
+        android:text="Next"
+        android:textColor="@color/card_question"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

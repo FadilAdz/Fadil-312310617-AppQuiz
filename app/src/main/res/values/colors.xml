@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="warna_utama">#243642</color>
+    <color name="asset_background">#629584</color>
+    <color name="asset_bg">#387478</color>
+    <color name="card_question">#E2F1E7</color>
+    <color name="signuptxt">#B8B8D2</color>
+    <color name="blue">#3D5CFF</color>
+    <color name="ketik">#E2F1E7</color>
+
+    <color name="button_end">#FFD83B</color>
+    <color name="benar">#11C251</color>
+    <color name="salah">#E23E3E</color>
+</resources>

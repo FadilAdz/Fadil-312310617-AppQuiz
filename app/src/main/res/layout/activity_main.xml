@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.066"
+        app:srcCompat="@drawable/logo" />
+
+    <Button
+        android:id="@+id/cplus"
+        android:layout_width="330dp"
+        android:layout_height="110dp"
+        android:background="@drawable/rounded_quiz"
+        android:drawableLeft="@drawable/cplus"
+        android:padding="45dp"
+        android:drawablePadding="-80dp"
+        android:text="C++"
+        android:textAllCaps="false"
+        android:textColor="@color/warna_utama"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.425" />
+
+    <Button
+        android:id="@+id/java"
+        android:layout_width="330dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/rounded_quiz"
+        android:drawableLeft="@drawable/java"
+        android:padding="45dp"
+        android:drawablePadding="-70dp"
+        android:text="Java"
+        android:textAllCaps="false"
+        android:textColor="@color/warna_utama"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cplus" />
+
+    <Button
+        android:id="@+id/python"
+        android:layout_width="330dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/rounded_quiz"
+        android:drawableLeft="@drawable/python"
+        android:drawablePadding="-50dp"
+        android:padding="45dp"
+        android:text="Python"
+        android:textAllCaps="false"
+        android:textColor="@color/warna_utama"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/java" />
+
+    <ImageView
+        android:id="@+id/Logout"
+        android:layout_width="55dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="72dp"
+        app:layout_constraintEnd_toStartOf="@+id/logo"
+        app:layout_constraintHorizontal_bias="0.197"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/keluar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
