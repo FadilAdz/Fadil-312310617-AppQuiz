@@ -15,6 +15,11 @@ BlinkMind adalah sebuah aplikasi kuis interaktif yang bertemakan bahasa pemrogra
 
 Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu pengguna meningkatkan pengetahuan dan keterampilan mereka dalam pemrograman. Berikut adalah beberapa fitur utama dari aplikasi ini :
 
+# $${\color{lightblue}StoryBoard}$$
+<br>
+
+![img](doc/ScreenRecord_AppQuiz_BlinkMind.gif) <br> <br>
+
 1. **Pilihan Kategori Kuis**  
    - Pengguna dapat memilih kategori kuis berdasarkan bahasa pemrograman, seperti **C++**, **Java**, dan **Python**. Setiap kategori memiliki ikon unik untuk memudahkan pengguna mengenali topik yang diinginkan. Fitur ini memungkinkan pengguna untuk fokus belajar pada bahasa pemrograman tertentu sesuai kebutuhan mereka. 
 
@@ -34,98 +39,3 @@ Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu
    - Aplikasi ini menampilkan kutipan inspiratif di layar awal, seperti pada deskripsi logo. Kutipan ini mendorong pengguna untuk terus belajar, berpikir kreatif, dan menjadikan aplikasi ini sebagai sumber motivasi tambahan.
 
 Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberikan pengalaman belajar yang menyenangkan, bermanfaat, dan interaktif bagi pengguna yang ingin memperdalam pengetahuan mereka dalam bidang pemrograman.
-
-
-<br> <br> <br>
-
-
-# $${\color{lightblue}StoryBoard}$$
-<br>
-
-![img](doc/ScreenRecord_AppQuiz_BlinkMind.gif) <br> <br>
-
-
-<br> <br> <br>
-
-# $${\color{lightblue}Mockup}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-# $${\color{lightblue}UI-Design}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-## $${\color{lightblue}SplashScreen}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}HomePage}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}QuizPage}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}EndPage}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# $${\color{lightblue}Dokumentasi-Hasil-Implementasi}$$
-
-## $${\color{lightblue}Tampilan-SplashScreen}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}Tampilan-Home}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}Tampilan-Quiz}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
-
-## $${\color{lightblue}Tampilan-SelesaiQuiz}$$
-<br>
-
-![img](doc/.png) <br> <br>
-
-
-<br> <br> <br>
