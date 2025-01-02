@@ -39,3 +39,5 @@ Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu
    - Aplikasi ini menampilkan kutipan inspiratif di layar awal, seperti pada deskripsi logo. Kutipan ini mendorong pengguna untuk terus belajar, berpikir kreatif, dan menjadikan aplikasi ini sebagai sumber motivasi tambahan.
 
 Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberikan pengalaman belajar yang menyenangkan, bermanfaat, dan interaktif bagi pengguna yang ingin memperdalam pengetahuan mereka dalam bidang pemrograman.
+
+![ScreenRecord_AppQuiz_BlinkMind-ezgif com-resize](https://github.com/user-attachments/assets/0badb335-3300-4046-b35a-8fa450aaaff3)
