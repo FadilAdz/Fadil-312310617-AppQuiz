@@ -1,5 +1,6 @@
 # App Quiz BlinkMind
-<br>
+Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu pengguna meningkatkan pengetahuan dan keterampilan mereka dalam pemrograman. 
+<br> <br>
 
 | Variable           |             Isi            |
 | -------------------|----------------------------|
@@ -11,12 +12,14 @@
 
 <br> 
 
-Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu pengguna meningkatkan pengetahuan dan keterampilan mereka dalam pemrograman. Berikut adalah beberapa fitur utama dari aplikasi ini :
+
 
 # $${\color{lightblue}SimulasiTest}$$
 <br>
 
 ![gif](doc/ScreenRecord_AppQuiz.gif) <br> <br>
+
+Berikut adalah beberapa fitur utama dari aplikasi ini
 
 1. **Pilihan Kategori Kuis**  
    - Pengguna dapat memilih kategori kuis berdasarkan bahasa pemrograman, seperti **C++**, **Java**, dan **Python**. Setiap kategori memiliki ikon unik untuk memudahkan pengguna mengenali topik yang diinginkan. Fitur ini memungkinkan pengguna untuk fokus belajar pada bahasa pemrograman tertentu sesuai kebutuhan mereka. 
