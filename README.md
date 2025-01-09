@@ -4,22 +4,38 @@ Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu
 
 | Variable           |             Isi            |
 | -------------------|----------------------------|
-| **Nama**           |         Fadil Aditya Adzima    |
+| **Nama**           |     Fadil Aditya Adzima    |
 | **NIM**            |          312310617         |
 | **Kelas**          |          TI.23.A.6         |
-| **Mata Kuliah**    |      Pemrograman Mobile 1     |
-| **Dosen Pengampu** | Donny Maulana, S.Kom., M.M.S.I.  |
+| **Mata Kuliah**    |    Pemrograman Mobile 1    |
+| **Dosen Pengampu** | Donny Maulana, S.Kom., M.M.S.I.|
 
-<br> 
+<br> <br>
 
 
 
-# $${\color{lightblue}SimulasiTest}$$
+# $${\color{lightblue}StoryBoard}$$
 <br>
 
-![gif](doc/ScreenRecord_AppQuiz.gif) <br> <br>
+![img](doc/StoryBoard.png) <br> <br>
 
-## Berikut adalah beberapa fitur utama dari aplikasi ini
+
+<br> <br> <br>
+
+# $${\color{lightblue}Mockup}$$
+<br>
+
+![img](doc/Mockup.png) <br> <br>
+
+
+<br> <br> <br>
+
+# $${\color{lightblue}UI-Design}$$
+<br>
+
+![img](doc/UI_Design.png) <br> <br>
+
+Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu pengguna meningkatkan pengetahuan dan keterampilan mereka dalam pemrograman. Berikut adalah beberapa fitur utama dari aplikasi ini :
 
 1. **Pilihan Kategori Kuis**  
    - Pengguna dapat memilih kategori kuis berdasarkan bahasa pemrograman, seperti **C++**, **Java**, dan **Python**. Setiap kategori memiliki ikon unik untuk memudahkan pengguna mengenali topik yang diinginkan. Fitur ini memungkinkan pengguna untuk fokus belajar pada bahasa pemrograman tertentu sesuai kebutuhan mereka. 
@@ -39,6 +55,44 @@ Aplikasi BlinkMind adalah aplikasi kuis interaktif yang dirancang untuk membantu
 6. **Motivasi dan Kutipan Inspiratif**  
    - Aplikasi ini menampilkan kutipan inspiratif di layar awal, seperti pada deskripsi logo. Kutipan ini mendorong pengguna untuk terus belajar, berpikir kreatif, dan menjadikan aplikasi ini sebagai sumber motivasi tambahan.
 
+Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberikan pengalaman belajar yang menyenangkan, bermanfaat, dan interaktif bagi pengguna yang ingin memperdalam pengetahuan mereka dalam bidang pemrograman.
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}SplashScreen}$$
 <br>
 
-Secara keseluruhan, fitur-fitur pada aplikasi BlinkMind dirancang untuk memberikan pengalaman belajar yang menyenangkan, bermanfaat, dan interaktif bagi pengguna yang ingin memperdalam pengetahuan mereka dalam bidang pemrograman.
+![img](doc/UI_SplashScreen.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}HomePage}$$
+<br>
+
+![img](doc/UI_HomePage.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}QuizPage}$$
+<br>
+
+![img](doc/UI_QuizPage.png) <br> <br>
+
+
+<br> <br> <br>
+
+## $${\color{lightblue}EndPage}$$
+<br>
+
+![img](doc/UI_EndPage.png) <br> <br>
+
+<br> <br> <br>
+
+
+# $${\color{lightblue}SimulasiTest}$$
+<br>
+
+![gif](doc/ScreenRecord_AppQuiz.gif)
